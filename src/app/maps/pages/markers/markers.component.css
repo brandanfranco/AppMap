@@ -1,0 +1,13 @@
+.map-container {
+  height: 100%;
+  width: 100%;
+}
+
+.list-group {
+  top: 20px;
+
+  right: 20px;
+  position: fixed;
+  z-index: 99;
+  cursor: pointer;
+}
